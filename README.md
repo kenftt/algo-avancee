@@ -8,7 +8,7 @@ Groupe 1 | Projet Algorithme Avancée
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-### Installation
+## Installation
 
 Follow these steps in order to install the project and have access to the notebooks.
 
